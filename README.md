@@ -77,4 +77,10 @@ Follow the steps below to install and setup the project:
 
     Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+7. **Sync Neondb with schema**
+
+    ```bash
+    npx drizzle-kit push:pg
+    ```
+   
 
